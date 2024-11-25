@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpandPro</string>
+    <string name="title_activity_cliente_login">ClienteLoginActivity</string>
+    <string name="title_activity_empresario_login">EmpresarioLoginActivity</string>
+    <string name="title_activity_empresario_dashboard">EmpresarioDashboardActivity</string>
+    <string name="title_activity_cliente_questionario">ClienteQuestionarioActivity</string>
+</resources>
